@@ -1,0 +1,9 @@
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\server\server.Model\bin\Debug\server.Model.dll.config
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\server\server.Model\bin\Debug\server.Model.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\server\server.Model\bin\Debug\server.Model.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\server\server.Model\obj\Debug\server.Model.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\server\server.Model\obj\Debug\server.Model.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\server\server.Model\obj\Debug\server.Model.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\server\server.Model\obj\Debug\server.Model.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\server\server.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 3\server\server.Model\obj\Debug\server.Model.csproj.CopyComplete
