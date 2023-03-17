@@ -1,0 +1,59 @@
+.contacts {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+
+.information2 {
+  margin-left: 120px;
+  margin-top: 70px;
+}
+
+.title2 {
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 105%;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-bottom: 70px !important;
+}
+
+.sendbtn {
+  margin-left: 20px !important;
+  margin-top: 50px !important;
+  width: 120px !important;
+  height: 50px !important;
+  box-sizing: border-box !important;
+  border: 2px solid #ffffff !important;
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 900 !important;
+  font-size: 16px !important;
+  line-height: 125% !important;
+  color: #ffffff !important;
+  background-color: transparent !important;
+}
+
+.sendbtn:hover {
+  background-color: #ffffff !important;
+  color: #1e507a !important;
+}
+
+.sendbtn:active {
+  border: 3px solid #1e507a !important;
+}
+
+.field {
+  margin-bottom: 20px;
+}
+
+.form-control-contact {
+  margin-top: 0 !important;
+  max-height: 200px;
+}

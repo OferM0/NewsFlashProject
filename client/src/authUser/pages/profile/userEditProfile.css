@@ -1,0 +1,75 @@
+.profileEditPage {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  height: 100vh !important;
+  display: flex !important;
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%) !important;
+}
+
+.profileEditPanel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 600px;
+  margin-left: 30%;
+  margin-top: 15vh;
+  background: linear-gradient(to right, #ee5a6f, #f29263);
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+  border-radius: 15px;
+  border: white solid 1px;
+}
+
+.btnSaveProfileEdit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px !important;
+  width: 160px !important;
+  height: 50px !important;
+  color: #f29263 !important;
+  border: #ee5a6f 1px solid !important;
+  background-color: white !important;
+  cursor: pointer !important;
+  font-weight: bold !important;
+  border-radius: 5px !important;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px !important;
+}
+
+.btnSaveProfileEdit:hover {
+  background: linear-gradient(to right, #ee5a6f, #f29263) !important;
+  border: white 1px solid !important;
+  color: white !important;
+}
+
+.btnSaveProfileEdit:active {
+  position: relative !important;
+  top: 10px !important;
+}
+
+.profileEditTitle {
+  color: white;
+  font-weight: bold !important;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.returnToProfile {
+  position: absolute;
+  color: white !important;
+  font-weight: bold !important;
+  margin-top: 440px !important;
+  margin-right: 520px !important;
+  width: 40px !important;
+}
+
+.returnIcon {
+  height: 50px !important;
+  width: 40px !important;
+}
+
+.returnToProfile:hover {
+  background-color: transparent !important;
+}

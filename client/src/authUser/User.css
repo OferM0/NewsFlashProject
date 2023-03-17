@@ -1,0 +1,4 @@
+.UserDashBoard {
+  display: flex;
+  flex-direction: row;
+}

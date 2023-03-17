@@ -1,0 +1,73 @@
+.home {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+
+.information {
+  height: 370px;
+  width: 580px;
+  margin-left: 110px;
+  margin-top: 180px;
+  border-radius: 10px;
+}
+
+.title {
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 105%;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #ffffff;
+  opacity: 0.75;
+  margin-bottom: 60px;
+}
+
+h1 {
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 110%;
+  letter-spacing: -0.03em;
+  color: #ffffff;
+}
+
+.home-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  color: #ffffff;
+  opacity: 0.9;
+  margin-bottom: 80px !important;
+}
+
+.buy-now {
+  width: 180px;
+  height: 50px;
+  box-sizing: border-box;
+  border: 2px solid #ffffff;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 125%;
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.buy-now:hover {
+  background-color: #ffffff;
+  color: #1e507a;
+}
+
+.buy-now:active {
+  border: 3px solid #1e507a;
+}
